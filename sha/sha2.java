@@ -1,4 +1,4 @@
-package sha;
-public class sha2 {
+package SHA;
+public class Sha2 {
     
 }
